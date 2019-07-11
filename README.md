@@ -2,11 +2,11 @@
 A image classifier built with Tensorflow and Keras that uses a CNN to classify weeds and healthy crops.
 
 ## Why? 
-India loses farm produce worth $11b to weeds every year. THis project aims to integrate with autonomous land drones that will propel itself across the fields and help descriminate between healthy crops and weeds, to take preventive measures like spraying pesticides.
+India loses farm produce worth $11b to weeds every year. This project aims to integrate with autonomous land drones that will propel itself across the fields and help descriminate between healthy crops and weeds, to take preventive measures like spraying pesticides.
 
 ## Model break down
-Model: "sequential"
 ```
+Model: "sequential"
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
 =================================================================
