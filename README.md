@@ -6,6 +6,7 @@ India loses farm produce worth $11b to weeds every year. THis project aims to in
 
 ## Model break down
 Model: "sequential"
+<!--
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
 =================================================================
@@ -31,6 +32,7 @@ Total params: 14,760,961
 Trainable params: 14,760,961
 Non-trainable params: 0
 _______________________
+-->
 
 
 ## Dataset 
